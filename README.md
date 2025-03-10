@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**yogithamathavan/Yogithamathavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mathavan Yogitha</title>
+	<style>
+		.frame {
+			border: 1px solid #ccc;
+			padding: 20px;
+			width: 300px;
+			height: 200px;
+			background-color: #fff;
+			box-shadow: 0 0 10px rgba(0,0,0,0.1);
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<div class="frame">
+		<h1>Mathavan Yogitha</h1>
+	</div>
+</body>
+</html>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
